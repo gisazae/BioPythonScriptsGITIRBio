@@ -1,6 +1,6 @@
 #! /usr/bin/python
 
-""" script que contiene 2/4 Phases Pipeline el proceso bioinformatico """
+""" GITIR: gisaza -> script 2/4 Phases Pipeline el proceso bioinformatico """
 def workFlow():
     """ usuario del sistema operativo (Linux-like), se utiliza para identificar los directorios de salida 
 	y de parametros de entrada  """
